@@ -1,0 +1,27 @@
+# Node / JavaScript
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+.venv/
+
+# Flutter / Dart
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.dart_tool/
+
+# macOS & Windows
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env 
